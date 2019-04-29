@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+
+<main>
+
+<head>
+<title> Memory Card Game </title>
+<link href="https://fonts.googleapis.com/css?family=Droid+Serif|Raleway:400,500,600,700" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<header>
+<h1> MEMORY GAME </h1>
+</header>
+ 
+ <style>
+	
+body {
+
+<style>
+	
+body {
+text-align: center;
+margin: 0;
+width: 850px;
+margin-top:35px;
+margin-bottom:35px;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+font-family: "Raleway";
+color: #FFFFFF;
+letter-spacing: 1px,
+font-weight: 400;
+font-size: 45;
+margin: 0;
+padding: 30px 20px 30px 20px;
+}
+
+nav {
+font-family: "Raleway";
+color: #FFFFFF;
+letter-spacing: 1px;
+font-weight: 600;
+font-size: 18px;
+background-color: #00A6B3; 
+color: #FFFFFF;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+a {
+margin: 0px 20px 0px 20px;
+color: #FFFFFF;
+text-decoration: none;
+border-bottom: 2px solid transparent;
+font-family: Raleway;
+letter-spacing: 1px;
+font-weight: 400;
+font-size: 18px;
+}
+
+h2 {
+font-family: "Raleway";
+color: #0D2C40;
+letter-spacing: 1px;
+font-weight: 600;
+font-size: 20px;
+}
+
+p {
+font-family: "Droid Serif";
+line-height: 26PX;
+font-size: 18px;
+}
+
+header {
+background-color: #F15B31;
+color: #FFFFFF
+padding: 30px 20px 30px 20px;
+font-family: "Raleway";
+}
+
+img {
+margin: 40px 8px 0 8px;	
+}
+
+footer {
+text-transform: uppercase;
+padding: 0 20px;
+background-color: #0D2C40;
+color: white;
+font-size: 14px;
+letter-spacing: .08em;
+font-weight: 500;
+}
+
+.copyright {
+font-family: "Raleway";
+float: left;
+}
+
+.message {
+ font-family: "Raleway"
+ float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name{
+color: #F15B31;
+font-weight: 700;
+}
+
+a:hover {
+border-bottom: 2px solid transparent;
+}
+
+a: hover {
+	border: white
+}
+
+</style>
+
+</head>
+ <body>
+<nav>
+	<a href="#">Instructions </a>
+	<a href="#">Game</a>
+</nav>
+
+<main>
+<h2>INSTRUCTIONS </h2>
+
+<p> Concentration, also known as Match Match, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. </p>
+
+<div>
+<img src="images/back.png" alt="King of Diamonds">
+<img src="images/back.png" alt="King of Hearts">
+<img src="images/back.png" alt="Queen of Diamonds">
+<img src="images/back.png" alt="Queen of Hearts">
+</div>
+
+</main>
+<footer class="clearfix">
+
+<p Class="copyright">Copyright 2017</p>
+
+<p class="messgae"> Created with &hearts; by <span class="name">GA</span></p>
+
+</footer>
+
+<script src="js/main.js"></script>
+
+</body>
