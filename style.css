@@ -42,7 +42,7 @@ margin: 0px 20px 0px 20px;
 color: #FFFFFF;
 text-decoration: none;
 border-bottom: 2px solid transparent;
-font-family: Raleway;
+font-family: "Raleway";
 letter-spacing: 1px;
 font-weight: 400;
 font-size: 18px;
@@ -73,12 +73,11 @@ font-family: "Raleway";
 
 img {
 margin: 40px 8px 0 8px;
-object-fit: cover;
 }
 
 footer {
 text-transform: uppercase;
-padding: 0 20px;
+padding: auto;
 background-color: #0D2C40;
 color: white;
 font-size: 14px;
